@@ -1,5 +1,4 @@
 # datasets
 data
-mnist
-fashion_mnist
-cifar
+# Jupyter
+.ipynb_checkpoints
